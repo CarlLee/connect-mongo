@@ -1,0 +1,20 @@
+{
+  "name": "connect-mongo",
+  "description": "A library to store sessions into Mongodb",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CarlLee/connect-mongo.git"
+  },
+  "author": "Carl Lee <ljbha007@gmail.com> (http://blog.friendsmaps.net)",
+  "main": "main.js",
+  "directories": {
+    "lib": "."
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
