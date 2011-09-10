@@ -19,5 +19,9 @@
   },
   "files": [
     ""
+  ],
+  "dependencies": [
+    "mongodb" : ">=0.9.6-7",
+    "connect" : ">=1.7.0"
   ]
 }
