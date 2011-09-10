@@ -1,7 +1,7 @@
 {
   "name": "connect-mongo",
   "description": "A library to store sessions into Mongodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/CarlLee/connect-mongo.git"
@@ -16,5 +16,8 @@
   },
   "engines": {
     "node": "*"
-  }
+  },
+  "files": [
+    ""
+  ]
 }
