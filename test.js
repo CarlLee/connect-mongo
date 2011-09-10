@@ -1,5 +1,7 @@
 
 /**
+ * This test was copied from connect-redis:
+ * https://github.com/visionmedia/connect-redis.git
  * Module dependencies.
  */
 

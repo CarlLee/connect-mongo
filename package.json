@@ -7,7 +7,7 @@
     "url": "git://github.com/CarlLee/connect-mongo.git"
   },
   "author": "Carl Lee <ljbha007@gmail.com> (http://blog.friendsmaps.net)",
-  "main": "main.js",
+  "main": "index.js",
   "directories": {
     "lib": "."
   },
